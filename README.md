@@ -14,3 +14,7 @@ Files
 	Play with coffeescript and look if it can make vows tests look more clear -> don't
 
 this is a test edit from cloud9ide.com
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/hoschi/fun-node/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
